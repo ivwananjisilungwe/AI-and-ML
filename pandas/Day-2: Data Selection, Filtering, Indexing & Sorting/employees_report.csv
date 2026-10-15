@@ -1,0 +1,8 @@
+Name,Age,Department,Salary,Experience_Years,Salary_Rank,Senior
+John,25,IT,5000,2,4.0,False
+Mary,30,HR,4000,5,7.0,True
+Peter,22,IT,4500,1,6.0,False
+Jane,28,Finance,6000,4,3.0,False
+Mike,35,IT,7000,8,2.0,True
+Sara,26,HR,4800,3,5.0,False
+Tom,40,Finance,8000,12,1.0,True

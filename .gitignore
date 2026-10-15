@@ -11,6 +11,9 @@
 # OpenCode
 .omo/
 .opencode/
+.codegraph/
+.handoffs/
+.kilo/
 
 # Python
 __pycache__/
@@ -23,3 +26,6 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Third-party vendored content (not ours - do not commit)
+Data-Science-For-Beginners-main/
